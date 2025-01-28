@@ -20,6 +20,6 @@ source venv/bin/activate
 5. Install the required dependencies:
 pip install -r requirements.txt
 
-#Run the application:
+# Run the application:
 
 streamlit run app.py
